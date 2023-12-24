@@ -1,0 +1,46 @@
+h1.one
+{
+   text-align: center;
+   color: white;
+}
+#two
+{
+    color:rgb(196, 255, 206);
+}
+#a
+{
+    
+    color: beige;
+}
+.img
+{
+    display:inline-block; 
+    color: azure;
+
+}
+figcaption.img
+{
+    color: beige;
+}
+.con
+{
+    display: inline-block;
+    text-align: left;
+    margin: 0 10px;
+    width: 200px;
+    vertical-align: top;
+}
+.con img
+{
+    width: 100%;
+    height: auto;
+}
+.con figcaption
+{
+    text-align: center;
+    margin-top: 5px;
+}
+.imdb
+{
+    color: cyan;
+}
